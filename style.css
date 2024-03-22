@@ -6,7 +6,7 @@ body {
 
 .header {
     text-align: center;
-    padding: 20px;
+    padding: 0px;
 }
 
 h1 {
@@ -22,8 +22,8 @@ hr {
 }
 
 .titulos-50,
-.elenco-50,
-.filme {
+.elenco-50
+{
     width: 50%;
     float: left;
     padding: 15px;
@@ -35,6 +35,7 @@ hr {
 
 .titulos-50 p:last-child {
     margin-top: 20px;
+    
 }
 
 .logo {
@@ -42,6 +43,10 @@ hr {
     margin: 0 auto;
     max-width: 100%;
     height: auto;
+    padding:60px;
+    float: left;
+    
+    
 }
 
 table {
