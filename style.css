@@ -60,11 +60,19 @@ hr {
 table {
     width: 100%;
     border-collapse: collapse;
+    padding: 130px;
+    text-align: left;
 }
 
 th, td {
     border: 1px solid black;
-    padding: 8px;
+    padding: 10px;
     text-align: center;
 }
 
+.doc{
+    padding: 100px;
+    text-align: center;
+    
+
+}
